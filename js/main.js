@@ -11,3 +11,6 @@ $('#play').click(function() {
         }
     }
 })
+$('td').click(function(){
+    
+})

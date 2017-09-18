@@ -4,6 +4,7 @@ td, tr {
     border: 4px solid bisque;
     padding: 5% !important;
     margin: 5% !important;
+    cursor: pointer;
 }
 #table {
     border: 2px solid green;

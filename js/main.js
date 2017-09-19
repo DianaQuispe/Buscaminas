@@ -19,7 +19,7 @@ const app = {
                 }
             }
             $('img').click(function() {
-                $('img').src = "bomba.svg";
+                $(this).attr("src","images/bomba.gif");
                 alert('d');
                 
             })

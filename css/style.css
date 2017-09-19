@@ -1,5 +1,9 @@
 *{
 }
+td {
+    width:50px !important;
+    height:50px !important
+}
 td, tr {
     border: 4px solid bisque;
     margin: 2% !important;
@@ -7,9 +11,22 @@ td, tr {
     width: 2% !important;
     height: 2% !important;
 }
-
+img {
+    width:70px !important;
+    height:70px !important
+}
+.bomba {
+background-color: green;
+}
+.numer {
+   background-image: url(../images/numero1.jpg);
+   background-repeat: no-repeat;
+   background-size: contain;
+   z-index: 1;
+}
 #table {
     display: table;
     border-collapse: separate;
+    width:50%;!important;
     border-spacing: 2px;
 }

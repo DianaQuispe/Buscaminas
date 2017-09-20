@@ -1,12 +1,11 @@
 *{
-    outline: 2px solid red;
 }
 td {
     width: 50px;
     height: 50px;
     text-align: center;
     padding: 0;
-    margin: 3px solid green !important;
+    border: 3px solid green !important;
 }
 img {
     width:100% !important;
@@ -25,13 +24,12 @@ img {
 .mostrar {
   background-color: coral;
 }
+
 /* td, tr {
     margin: 2% !important;
  
 
-/* .bomba {
-background-color: green;
-}
+/* 
 .numer {
    background-image: url(../images/numero1.jpg);
    background-repeat: no-repeat;
